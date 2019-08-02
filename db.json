@@ -1,0 +1,40 @@
+{
+  "burgers": [
+    {
+      "id": 0,
+      "name": "Big Mac",
+      "image": "https://www.mcdonalds.ua/content/dam/Ukraine/Item_Images/hero.Sdwch_BigMac.png",
+      "ingredients": []
+    },
+    {
+      "id": 0,
+      "name": "Big Tasty",
+      "image": "https://www.mcdonalds.ua/content/dam/Ukraine/Item_Images/hero.Sdwch_BigTasty.png",
+      "ingredients": []
+    },
+    {
+      "id": 0,
+      "name": "Double McFresh",
+      "image": "https://www.mcdonalds.ua/content/dam/Ukraine/Item_Images/hero.DoubleMcFresh.png",
+      "ingredients": []
+    },
+    {
+      "id": 0,
+      "name": "Double Cheeseburger",
+      "image": "https://www.mcdonalds.ua/content/dam/Ukraine/Item_Images/hero.Sdwch_DoubleCheeseburger.png",
+      "ingredients": []
+    },
+    {
+      "id": 0,
+      "name": "Maestro Classic Beef",
+      "image": "https://www.mcdonalds.ua/content/dam/Ukraine/Item_Images/hero.Maestro%20Classic%20Beef.png",
+      "ingredients": []
+    },
+    {
+      "id": 0,
+      "name": "McChicken",
+      "image": "https://www.mcdonalds.ua/content/dam/Ukraine/Item_Images/hero.Sdwch_McChicken.png",
+      "ingredients": []
+    }
+  ]
+}
