@@ -5,13 +5,12 @@
       "name": "Big Mac",
       "image": "https://www.mcdonalds.ua/content/dam/Ukraine/Item_Images/hero.Sdwch_BigMac.png",
       "ingredients": {
-        "beefsteak": 2,
-        "onion": 1,
-        "pickled_cucumber": 1,
-        "cheese": 1,
-        "salad": 1,
-        "bun": 1,
-        "sauce": 1
+        "Котлета": 2,
+        "Лук": 1,
+        "Маринованный огурец": 1,
+        "Сыр": 1,
+        "Листья салата": 1,
+        "Соус": 1
       }
     },
     {
@@ -19,13 +18,12 @@
       "name": "Big Tasty",
       "image": "https://www.mcdonalds.ua/content/dam/Ukraine/Item_Images/hero.Sdwch_BigTasty.png",
       "ingredients": {
-        "beefsteak": 1,
-        "onion": 1,
-        "tomato": 1,
-        "cheese": 1,
-        "salad": 1,
-        "bun": 1,
-        "sauce": 1
+        "Котлета": 1,
+        "Лук": 1,
+        "Помидор": 1,
+        "Сыр": 1,
+        "Листья салата": 1,
+        "Соус": 1
       }
     },
     {
@@ -33,14 +31,13 @@
       "name": "Double McFresh",
       "image": "https://www.mcdonalds.ua/content/dam/Ukraine/Item_Images/hero.DoubleMcFresh.png",
       "ingredients": {
-        "beefsteak": 2,
-        "onion": 1,
-        "cucumber": 1,
-        "tomato": 1,
-        "cheese": 1,
-        "salad": 1,
-        "bun": 1,
-        "sauce": 1
+        "Котлета": 2,
+        "Лук": 1,
+        "Огурец": 1,
+        "Помидор": 1,
+        "Сыр": 1,
+        "Листья салата": 1,
+        "Соус": 1
       }
     },
     {
@@ -48,12 +45,11 @@
       "name": "Double Cheeseburger",
       "image": "https://www.mcdonalds.ua/content/dam/Ukraine/Item_Images/hero.Sdwch_DoubleCheeseburger.png",
       "ingredients": {
-        "beefsteak": 2,
-        "onion": 1,
-        "pickled_cucumber": 1,
-        "cheese": 2,
-        "bun": 1,
-        "sauce": 1
+        "Котлета": 2,
+        "Лук": 1,
+        "Маринованный огурец": 1,
+        "Сыр": 2,
+        "Соус": 1
       }
     },
     {
@@ -61,13 +57,12 @@
       "name": "Maestro Classic Beef",
       "image": "https://www.mcdonalds.ua/content/dam/Ukraine/Item_Images/hero.Maestro%20Classic%20Beef.png",
       "ingredients": {
-        "beefsteak": 2,
-        "onion": 1,
-        "tomato": 1,
-        "cheese": 1,
-        "salad": 1,
-        "bun": 1,
-        "sauce": 1
+        "Котлета": 2,
+        "Лук": 1,
+        "Помидор": 1,
+        "Сыр": 1,
+        "Листья салата": 1,
+        "Соус": 1
       }
     },
     {
@@ -75,11 +70,10 @@
       "name": "McChicken",
       "image": "https://www.mcdonalds.ua/content/dam/Ukraine/Item_Images/hero.Sdwch_McChicken.png",
       "ingredients": {
-        "chicken": 1,
-        "onion": 1,
-        "salad": 1,
-        "bun": 1,
-        "sauce": 1
+        "Котлета": 1,
+        "Лук": 1,
+        "Листья салата": 1,
+        "Соус": 1
       }
     },
     {
@@ -87,11 +81,10 @@
       "name": "Hamburger",
       "image": "https://www.mcdonalds.ua/content/dam/Ukraine/Item_Images/hero.Sdwch_Hamburger.png",
       "ingredients": {
-        "beefsteak": 1,
-        "onion": 1,
-        "pickled_cucumber": 1,
-        "bun": 1,
-        "sauce": 1
+        "Котлета": 1,
+        "Лук": 1,
+        "Маринованный огурец": 1,
+        "Соус": 1
       }
     }
   ]
