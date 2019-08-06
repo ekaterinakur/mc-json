@@ -1,40 +1,98 @@
 {
   "burgers": [
     {
-      "id": 0,
+      "id": 1,
       "name": "Big Mac",
       "image": "https://www.mcdonalds.ua/content/dam/Ukraine/Item_Images/hero.Sdwch_BigMac.png",
-      "ingredients": []
-    },
-    {
-      "id": 1,
-      "name": "Big Tasty",
-      "image": "https://www.mcdonalds.ua/content/dam/Ukraine/Item_Images/hero.Sdwch_BigTasty.png",
-      "ingredients": []
+      "ingredients": {
+        "beefsteak": 2,
+        "onion": 1,
+        "pickled_cucumber": 1,
+        "cheese": 1,
+        "salad": 1,
+        "bun": 1,
+        "sauce": 1
+      }
     },
     {
       "id": 2,
-      "name": "Double McFresh",
-      "image": "https://www.mcdonalds.ua/content/dam/Ukraine/Item_Images/hero.DoubleMcFresh.png",
-      "ingredients": []
+      "name": "Big Tasty",
+      "image": "https://www.mcdonalds.ua/content/dam/Ukraine/Item_Images/hero.Sdwch_BigTasty.png",
+      "ingredients": {
+        "beefsteak": 1,
+        "onion": 1,
+        "tomato": 1,
+        "cheese": 1,
+        "salad": 1,
+        "bun": 1,
+        "sauce": 1
+      }
     },
     {
       "id": 3,
-      "name": "Double Cheeseburger",
-      "image": "https://www.mcdonalds.ua/content/dam/Ukraine/Item_Images/hero.Sdwch_DoubleCheeseburger.png",
-      "ingredients": []
+      "name": "Double McFresh",
+      "image": "https://www.mcdonalds.ua/content/dam/Ukraine/Item_Images/hero.DoubleMcFresh.png",
+      "ingredients": {
+        "beefsteak": 2,
+        "onion": 1,
+        "cucumber": 1,
+        "tomato": 1,
+        "cheese": 1,
+        "salad": 1,
+        "bun": 1,
+        "sauce": 1
+      }
     },
     {
       "id": 4,
-      "name": "Maestro Classic Beef",
-      "image": "https://www.mcdonalds.ua/content/dam/Ukraine/Item_Images/hero.Maestro%20Classic%20Beef.png",
-      "ingredients": []
+      "name": "Double Cheeseburger",
+      "image": "https://www.mcdonalds.ua/content/dam/Ukraine/Item_Images/hero.Sdwch_DoubleCheeseburger.png",
+      "ingredients": {
+        "beefsteak": 2,
+        "onion": 1,
+        "pickled_cucumber": 1,
+        "cheese": 2,
+        "bun": 1,
+        "sauce": 1
+      }
     },
     {
       "id": 5,
+      "name": "Maestro Classic Beef",
+      "image": "https://www.mcdonalds.ua/content/dam/Ukraine/Item_Images/hero.Maestro%20Classic%20Beef.png",
+      "ingredients": {
+        "beefsteak": 2,
+        "onion": 1,
+        "tomato": 1,
+        "cheese": 1,
+        "salad": 1,
+        "bun": 1,
+        "sauce": 1
+      }
+    },
+    {
+      "id": 6,
       "name": "McChicken",
       "image": "https://www.mcdonalds.ua/content/dam/Ukraine/Item_Images/hero.Sdwch_McChicken.png",
-      "ingredients": []
+      "ingredients": {
+        "chicken": 1,
+        "onion": 1,
+        "salad": 1,
+        "bun": 1,
+        "sauce": 1
+      }
+    },
+    {
+      "id": 7,
+      "name": "Hamburger",
+      "image": "https://www.mcdonalds.ua/content/dam/Ukraine/Item_Images/hero.Sdwch_Hamburger.png",
+      "ingredients": {
+        "beefsteak": 1,
+        "onion": 1,
+        "pickled_cucumber": 1,
+        "bun": 1,
+        "sauce": 1
+      }
     }
   ]
 }
