@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Big Mac",
-      "image": "https://www.mcdonalds.ua/content/dam/Ukraine/Item_Images/hero.Sdwch_BigMac.png",
+      "image": "https://www.mcdonalds.com/content/dam/ua/nutrition/nfl-product/product/regular/thumb.Sdwch_BigMac.png",
       "ingredients": {
         "Котлета": 2,
         "Лук": 1,
@@ -16,7 +16,7 @@
     {
       "id": 2,
       "name": "Big Tasty",
-      "image": "https://www.mcdonalds.ua/content/dam/Ukraine/Item_Images/hero.Sdwch_BigTasty.png",
+      "image": "https://www.mcdonalds.com/content/dam/ua/nutrition/nfl-product/product/regular/SdwchBigTasty.png",
       "ingredients": {
         "Котлета": 1,
         "Лук": 1,
@@ -29,7 +29,7 @@
     {
       "id": 3,
       "name": "Double McFresh",
-      "image": "https://www.mcdonalds.ua/content/dam/Ukraine/Item_Images/hero.DoubleMcFresh.png",
+      "image": "https://www.mcdonalds.com/content/dam/ua/nutrition/nfl-product/product/regular/Royal_Fresh.png",
       "ingredients": {
         "Котлета": 2,
         "Лук": 1,
@@ -43,7 +43,7 @@
     {
       "id": 4,
       "name": "Double Cheeseburger",
-      "image": "https://www.mcdonalds.ua/content/dam/Ukraine/Item_Images/hero.Sdwch_DoubleCheeseburger.png",
+      "image": "https://www.mcdonalds.com/content/dam/ua/nutrition/nfl-product/product/regular/Dbl_Royal_Cheese.png",
       "ingredients": {
         "Котлета": 2,
         "Лук": 1,
@@ -55,7 +55,7 @@
     {
       "id": 5,
       "name": "Maestro Classic Beef",
-      "image": "https://www.mcdonalds.ua/content/dam/Ukraine/Item_Images/hero.Maestro%20Classic%20Beef.png",
+      "image": "https://www.mcdonalds.com/content/dam/ua/nutrition/nfl-product/product/regular/SdwchBurgerPorkPickles.png",
       "ingredients": {
         "Котлета": 2,
         "Лук": 1,
@@ -68,7 +68,7 @@
     {
       "id": 6,
       "name": "McChicken",
-      "image": "https://www.mcdonalds.ua/content/dam/Ukraine/Item_Images/hero.Sdwch_McChicken.png",
+      "image": "https://www.mcdonalds.com/content/dam/ua/nutrition/nfl-product/product/regular/thumb.Sdwch_Burger_with_chicken_and_honey_mustard.png",
       "ingredients": {
         "Котлета": 1,
         "Лук": 1,
@@ -79,7 +79,7 @@
     {
       "id": 7,
       "name": "Hamburger",
-      "image": "https://www.mcdonalds.ua/content/dam/Ukraine/Item_Images/hero.Sdwch_Hamburger.png",
+      "image": "https://www.mcdonalds.com/content/dam/ua/nutrition/nfl-product/product/regular/Sdwch_Cheeseburger.png",
       "ingredients": {
         "Котлета": 1,
         "Лук": 1,
