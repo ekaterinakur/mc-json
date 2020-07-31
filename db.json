@@ -5,12 +5,12 @@
       "name": "Big Mac",
       "image": "https://www.mcdonalds.com/content/dam/ua/nutrition/nfl-product/product/regular/thumb.Sdwch_BigMac.png",
       "ingredients": {
-        "Котлета": 2,
-        "Лук": 1,
-        "Маринованный огурец": 1,
-        "Сыр": 1,
-        "Листья салата": 1,
-        "Соус": 1
+        "Cutlet": 2,
+        "Onion": 1,
+        "Pickle": 1,
+        "Cheese": 1,
+        "Lettuce": 1,
+        "Sauce": 1
       }
     },
     {
@@ -18,12 +18,12 @@
       "name": "Big Tasty",
       "image": "https://www.mcdonalds.com/content/dam/ua/nutrition/nfl-product/product/regular/SdwchBigTasty.png",
       "ingredients": {
-        "Котлета": 1,
-        "Лук": 1,
-        "Помидор": 1,
-        "Сыр": 1,
-        "Листья салата": 1,
-        "Соус": 1
+        "Cutlet": 1,
+        "Onion": 1,
+        "Tomato": 1,
+        "Cheese": 1,
+        "Lettuce": 1,
+        "Sauce": 1
       }
     },
     {
@@ -31,13 +31,13 @@
       "name": "Double McFresh",
       "image": "https://www.mcdonalds.com/content/dam/ua/nutrition/nfl-product/product/regular/Royal_Fresh.png",
       "ingredients": {
-        "Котлета": 2,
-        "Лук": 1,
-        "Огурец": 1,
-        "Помидор": 1,
-        "Сыр": 1,
-        "Листья салата": 1,
-        "Соус": 1
+        "Cutlet": 2,
+        "Onion": 1,
+        "Cucumber": 1,
+        "Tomato": 1,
+        "Cheese": 1,
+        "Lettuce": 1,
+        "Sauce": 1
       }
     },
     {
@@ -45,11 +45,11 @@
       "name": "Double Cheeseburger",
       "image": "https://www.mcdonalds.com/content/dam/ua/nutrition/nfl-product/product/regular/Dbl_Royal_Cheese.png",
       "ingredients": {
-        "Котлета": 2,
-        "Лук": 1,
-        "Маринованный огурец": 1,
-        "Сыр": 2,
-        "Соус": 1
+        "Cutlet": 2,
+        "Onion": 1,
+        "Pickle": 1,
+        "Cheese": 2,
+        "Sauce": 1
       }
     },
     {
@@ -57,12 +57,12 @@
       "name": "Maestro Classic Beef",
       "image": "https://www.mcdonalds.com/content/dam/ua/nutrition/nfl-product/product/regular/SdwchBurgerPorkPickles.png",
       "ingredients": {
-        "Котлета": 2,
-        "Лук": 1,
-        "Помидор": 1,
-        "Сыр": 1,
-        "Листья салата": 1,
-        "Соус": 1
+        "Cutlet": 2,
+        "Onion": 1,
+        "Tomato": 1,
+        "Cheese": 1,
+        "Lettuce": 1,
+        "Sauce": 1
       }
     },
     {
@@ -70,10 +70,10 @@
       "name": "McChicken",
       "image": "https://www.mcdonalds.com/content/dam/ua/nutrition/nfl-product/product/regular/thumb.Sdwch_Burger_with_chicken_and_honey_mustard.png",
       "ingredients": {
-        "Котлета": 1,
-        "Лук": 1,
-        "Листья салата": 1,
-        "Соус": 1
+        "Cutlet": 1,
+        "Onion": 1,
+        "Lettuce": 1,
+        "Sauce": 1
       }
     },
     {
@@ -81,10 +81,10 @@
       "name": "Hamburger",
       "image": "https://www.mcdonalds.com/content/dam/ua/nutrition/nfl-product/product/regular/Sdwch_Cheeseburger.png",
       "ingredients": {
-        "Котлета": 1,
-        "Лук": 1,
-        "Маринованный огурец": 1,
-        "Соус": 1
+        "Cutlet": 1,
+        "Onion": 1,
+        "Pickle": 1,
+        "Sauce": 1
       }
     }
   ]
